@@ -40,9 +40,7 @@ public class BookSoft {
            
            libros[i]=new BookLibrary();
            libros[i].BorrarLibro();
-           for(k=0;k<libros[i].getCedula().length;i++){
-               libros[i].getCedula()[k]="";
-           }
+           
        }
         for(i=0;i<librosprestados.length;i++){
            

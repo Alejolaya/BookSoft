@@ -15,6 +15,7 @@ public class BookLibrary extends BookData {
     
 
     public String[] getCedula() {
+       
         return cedula;
     }
 
